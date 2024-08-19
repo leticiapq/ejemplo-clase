@@ -1,0 +1,28 @@
+{
+    "Nombre": "Leticia",
+    "Apellidos": "Pons Quílez",
+    "Nacionalidad": "Española",
+    "Localidad": "Casetas (Zaragoza)",
+    "Estudios": [
+        "Información y Documentación", 
+        "Amazon Web Services"
+    ],
+    "Centros": [
+        "Universidad de Zaragoza", 
+        "Hub Kings Corner"
+    ],
+    "Otros estudios": [
+        "Curso de chino A1.1",
+        "Curso de Inteligencia Artificial",
+        "Curso de Transformación digital"
+    ],
+    "Idiomas": [
+        "español",
+        "inglés",
+        "francés",
+        "chino",
+        "catalán"
+    ],
+    "Experiencia": "Ayudante de librería",
+    "Descripción": "Soy licenciada en el Grado en información y Docuemntación por la Universidad de Zaragoza. Me interesa el campo de la archivística y me considero una persona responsable y capaz de trabajar individualmente o en equipo"
+}
